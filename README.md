@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Marija-Nikolovska09
 - 👀 I’m interested in programming languages and software develompent
-- 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - marija.nikol09@gmail.com
 
